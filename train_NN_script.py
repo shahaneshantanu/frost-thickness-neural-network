@@ -16,7 +16,7 @@ import pandas as pd
 import os
 tic();
 
-folder=''
+folder='Neural Networks/'
 file='Raw Data.xlsx';
 train_fraction=0.8; test_fraction=0.5*(1-train_fraction);
 surface_type='SHP'; #options: 'SHL', 'SHP', 'R'

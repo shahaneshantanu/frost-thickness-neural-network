@@ -19,7 +19,7 @@ params = {'legend.fontsize': 'x-large', 'figure.figsize': (20, 10), 'axes.labels
 pylab.rcParams.update(params)
 tic();
 
-folder=''
+folder='Neural Networks/'
 file='Raw Data.xlsx'
 surface_type='SHP'; #options: 'SHL', 'SHP', 'R'
 separation=8; #options: 2, 4, 6, 8
