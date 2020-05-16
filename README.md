@@ -47,5 +47,5 @@ Similar other files can be found in the [folders](https://github.com/shahaneshan
 
 ## Credits:
 
-* Neural networks developed by Dr. Shantanu Shahane, Postdoctoral Research Associate, Mechanical Science and Engineering, University of Illinois at Urbana-Champaign. [Github Link](https://github.com/shahaneshantanu)
-* Experimental data from research group of [Prof. Nenad Miljkovic](http://etrl.mechanical.illinois.edu/)
+* Neural networks developed by Dr. Shantanu Shahane, Postdoctoral Research Associate, Mechanical Science and Engineering, University of Illinois at Urbana-Champaign. [Github Link](https://github.com/shahaneshantanu). Email: <shahaneshantanu@gmail.com>
+* Experimental data from research group of [Prof. Nenad Miljkovic](http://etrl.mechanical.illinois.edu/). Email: <nmiljkov@illinois.edu>
