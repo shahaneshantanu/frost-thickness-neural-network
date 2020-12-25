@@ -1,4 +1,4 @@
-# Neural Netowrk for Temporal Evolution of Frost Thickness
+# Neural Network for Temporal Evolution of Frost Thickness
 
 ## Getting Started
 
@@ -44,6 +44,11 @@ Some examples showing accuracy of neural network prediction by superposing it wi
 ![](https://github.com/shahaneshantanu/frost-thickness-neural-network/blob/master/Neural%20Networks/R_2mm_-5C%20%5Bmin%5D/superposed.png)
 
 Similar other files can be found in the [folders](https://github.com/shahaneshantanu/frost-thickness-neural-network/tree/master/Neural%20Networks)
+
+## Cite
+If you use the codes in this repository, please cite the following [research paper](https://www.sciencedirect.com/science/article/pii/S0017931020334992):
+
+Rabbi KF, Boyina KS, Su W, Sett S, Thamban A, Shahane S, Wang S, Miljkovic N. Wettability-defined frosting dynamics between plane fins in quiescent air. International Journal of Heat and Mass Transfer.;164:120563.
 
 ## Credits:
 
